@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# 禁止抓取图片（避免带宽浪费，图片已在页面中展示）
+Disallow: /images/
+
+# 告诉搜索引擎站点地图位置
+Sitemap: https://你的用户名.github.io/你的仓库名/sitemap.xml
+
+# 百度爬虫单独配置（提升抓取优先级）
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1

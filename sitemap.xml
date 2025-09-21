@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://你的用户名.github.io/你的仓库名/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://你的用户名.github.io/你的仓库名/#brand-section</loc>
+    <lastmod>2025-09-21</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://你的用户名.github.io/你的仓库名/#product-section</loc>
+    <lastmod>2025-09-21</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://你的用户名.github.io/你的仓库名/#company-section</loc>
+    <lastmod>2025-09-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://你的用户名.github.io/你的仓库名/#contact-section</loc>
+    <lastmod>2025-09-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
